@@ -1,0 +1,6 @@
+[submodule "CampMaster_db"]
+	path = CampMaster_db
+	url = https://github.com/pawelwrutkowski/CampMaster_DB
+[submodule "CampMaster_DB"]
+	path = CampMaster_DB
+	url = https://github.com/pawelwrutkowski/CampMaster_DB.git
